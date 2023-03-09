@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laugm&label=Profile%20views&color=0e75b6&style=flat" alt="laugm" /> </p>
 
-- 📝 I regularly write articles on [Linkedin and Notion](Linkedin and Notion)
+- 📝 I regularly write articles on Linkedin and Notion
 
 - 💬 Ask me about **javascript & vue**
 
