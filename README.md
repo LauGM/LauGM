@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **javascript & vue**
 
-- 📫 How to reach me **lmartin@animac.com.ar**
+- 📫 Send me an email **lmartin@animac.com.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
