@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on Linkedin and Notion
 
-- 💬 Ask me about **javascript & vue**
+- 💬 Ask me about **front end development**
 
 - 📫 Send me an email **lmartin@animac.com.ar**
 
